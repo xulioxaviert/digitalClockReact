@@ -14,8 +14,8 @@ const Digitalclock = () => {
     
     
     return (
-      <div>
-        <h3>Hora local: {time}</h3>
+      <div className="digital-clock" >
+        <h2>Hora local: {time}</h2>
       </div>
     );
 };

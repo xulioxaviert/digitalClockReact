@@ -1,3 +1,13 @@
+@import "./components/CountDown/CountDown";
+@import "./components/Crono/Crono";
+@import "./components/DigitalCLock/DigitalClock";
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200&display=swap');
+
+
+
 .App {
   text-align: center;
+  font-family: 'Titillium Web',
+  sans-serif;
 }
+
